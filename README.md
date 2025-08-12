@@ -1,7 +1,7 @@
-# Análise de Vendas - 2019 📊
+# Análise de Vendas - Anual 📊
 
 Este projeto faz parte do meu portfólio de análise de dados.  
-O objetivo é explorar e analisar dados de vendas do ano de 2019, utilizando Python e bibliotecas de análise de dados.
+O objetivo é explorar e analisar dados de vendas anual, utilizando Python e bibliotecas de análise de dados.
 
 ## 📂 Estrutura do projeto
 
