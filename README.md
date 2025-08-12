@@ -6,7 +6,7 @@ O objetivo é explorar e analisar dados de vendas anual, utilizando Python e bib
 ## 📂 Estrutura do projeto
 
 analise-vendas-2019/
-'''│
+
 ├── data/ # Contém a base de dados bruta
 │ └── tabela_case_venda.xlsx
 │
