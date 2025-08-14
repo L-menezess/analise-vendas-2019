@@ -18,7 +18,7 @@ analise-vendas-anual/
 └──── README.md # Descrição do projeto
 
 ## 🚀 Tecnologias utilizadas
-- Python 3.x
+- Python 
 - Pandas
 - Matplotlib
 - Seaborn
