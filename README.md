@@ -7,10 +7,10 @@ O objetivo é explorar e analisar dados de vendas anual, utilizando Python e bib
 
 analise-vendas-anual/
 
-── data/ # Contém a base de dados bruta
+── data/ # Contém a base de dados bruta/
    ── tabela_case_venda.xlsx
 
-── notebooks/ # Notebooks de análise
+── notebooks/ # Notebooks de análise/
    ── analise_vendas_2019.ipynb
 
 ── README.md # Descrição do projeto
